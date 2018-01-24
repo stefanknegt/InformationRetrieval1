@@ -1,0 +1,30 @@
+LSI50
+map                    0.0340
+P_5                    0.0067
+recall_1000            0.6646
+ndcg_cut_10            0.0032
+
+LSI100
+map                    0.0320
+P_5                    0.0000
+recall_1000            0.6646
+ndcg_cut_10            0.0000
+
+LSI250
+map                    0.0320
+P_5                    0.0000
+recall_1000            0.6646
+ndcg_cut_10            0.0023
+
+LDA10
+map                    0.0316
+P_5                    0.0000
+recall_1000            0.6646
+ndcg_cut_10            0.0000
+
+LDA20
+map                    0.0342
+P_5                    0.0133
+recall_1000            0.6646
+ndcg_cut_10            0.0078
+
