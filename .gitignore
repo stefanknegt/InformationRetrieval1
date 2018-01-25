@@ -106,9 +106,4 @@ ENV/
 
 # mypy
 .mypy_cache/
-HW2/Pickle
-HW2/RunFiles
-HW2/ShellScripts
-HW2/RedudandantNotebooks
 HW2/.gitignore
-HW2/RedudantNotebooks/
