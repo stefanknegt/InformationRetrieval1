@@ -107,3 +107,4 @@ ENV/
 # mypy
 .mypy_cache/
 HW2/.gitignore
+HW2/LDAmodels
