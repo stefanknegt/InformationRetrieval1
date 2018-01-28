@@ -2,6 +2,9 @@
 /HW2/index
 /HW2/trec_eval
 /HW2/reduced_vectors_google.txt
+/HW2/doc2vec
+/HW2/LDAmodels
+/HW2/LSImodels
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
