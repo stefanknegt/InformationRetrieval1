@@ -1,2 +1,2 @@
 cd trec_eval
-./trec_eval -m map -m P.5 -m ndcg_cut.10 -m recall.1000 qrel_validation AV15.run
+./trec_eval -m map -m P.5 -m ndcg_cut.10 -m recall.1000 -q qrel_validation AV15.run
